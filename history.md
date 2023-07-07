@@ -8,6 +8,8 @@ List of contributor
 
 <table><thead><tr><th width="146.33333333333331" data-type="users" data-multiple></th><th width="145">Roles</th><th></th></tr></thead><tbody><tr><td><a href="http://localhost:5000/u/KqsmLLkT4shYjz98SMXnun7ed9B3">Apple</a></td><td>Bureaucrat</td><td></td></tr><tr><td><a href="http://localhost:5000/u/dzEj2MvZFCd9xs11Zx5L8I0VDEn2">27 hengp</a></td><td>Administrator</td><td></td></tr></tbody></table>
 
+This Gitbook (Wiki) is connected with a [Git Repo](https://github.com/Apple2452424/GitBook), you may pull a request either here or on the [Git Repo](https://github.com/Apple2452424/GitBook)
+
 
 
 Server History&#x20;
