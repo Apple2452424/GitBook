@@ -20,6 +20,8 @@ layout:
 
 # 👋 Welcome!
 
+# Note : If you want to contribute please head to current Repo's issue tab, and make a issue about it. Thank you.
+
 {% hint style="danger" %}
 **About this Wiki:** This wiki is working in progress. Many stuff may be unfinished.
 {% endhint %}
