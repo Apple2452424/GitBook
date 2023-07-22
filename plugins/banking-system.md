@@ -1,7 +1,7 @@
 # 🏧 Banking System
 
 {% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
+<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS (Plugin Being Rework.)**</mark>
 {% endhint %}
 
 Banking System features :&#x20;

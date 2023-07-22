@@ -1,4 +1,4 @@
-# 👕    Armor
+# 👕 Armor
 
 {% hint style="danger" %}
 <mark style="color:red;background-color:orange;">**WORKING IN PROGRESS (Might not be used in Official Update.)**</mark>
@@ -32,7 +32,7 @@
 {% tab title="Backpack" %}
 
 
-<table><thead><tr><th width="179.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (142).png" alt="">VKBO Army Bag</td><td></td><td>Space in slots: 8</td></tr><tr><td><img src="../.gitbook/assets/image (162).png" alt="">Flyye MBSS Backpack</td><td></td><td>Space in slots: 16</td></tr><tr><td><img src="../.gitbook/assets/image (202).png" alt="">Scav Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (208).png" alt="">LBT-8005A Day Pack Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (127).png" alt="">Berkut VV-102 Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (46).png" alt="">Camelba Tri-Zip Backpack</td><td></td><td>Space in slots: 30</td></tr><tr><td><img src="../.gitbook/assets/image (228).png" alt="">Pilgrim Tourist Backpack</td><td></td><td>Space in slots: 35</td></tr><tr><td><img src="../.gitbook/assets/image (182).png" alt="">6SH118 Raid Backpack</td><td></td><td>Space in slots: 48</td></tr></tbody></table>
+<table><thead><tr><th width="179.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/image (142).png" alt="">VKBO Army Bag</td><td></td><td>Space in slots: 8</td></tr><tr><td><img src="../.gitbook/assets/image (162).png" alt="">Flyye MBSS Backpack</td><td></td><td>Space in slots: 16</td></tr><tr><td><img src="../.gitbook/assets/image (202).png" alt="">Scav Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (208).png" alt="">LBT-8005A Day Pack Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (127).png" alt="">Berkut VV-102 Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../.gitbook/assets/image (46) (1).png" alt="">Camelba Tri-Zip Backpack</td><td></td><td>Space in slots: 30</td></tr><tr><td><img src="../.gitbook/assets/image (228).png" alt="">Pilgrim Tourist Backpack</td><td></td><td>Space in slots: 35</td></tr><tr><td><img src="../.gitbook/assets/image (182).png" alt="">6SH118 Raid Backpack</td><td></td><td>Space in slots: 48</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Outfit" %}

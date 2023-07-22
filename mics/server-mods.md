@@ -18,12 +18,12 @@ layout:
     visible: true
 ---
 
-# 📂    Server Mods
+# 📂 Beta Server Mods
 
 {% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
+<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS (This page will be deleted after BETA.)**</mark>
 
-Note: these mods are only in Beta.
+Note: these mods are only in Beta. And most likey won't be change till server release.
 {% endhint %}
 
 Pento Tactical Apparel (CREATED BY Pento , SargeJames)
