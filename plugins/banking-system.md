@@ -24,11 +24,3 @@ Possible features :&#x20;
 * [ ] Group accounts
 * [ ] Possibility to change color of the UI
 * [ ] Custom account ID ( Hidden ID / Not connected to ur name )
-
-ATM :&#x20;
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (95).png" alt="" width="169"><figcaption></figcaption></figure>
-
-</div>

@@ -1,5 +1,5 @@
 ---
-description: Links / small information's about the mods that are used in Northwich
+description: Links / small information's about the mods that are used in Northwich.
 cover: ../.gitbook/assets/image_2023-06-30_181950200.png
 coverY: 0
 layout:
@@ -18,150 +18,168 @@ layout:
     visible: true
 ---
 
-# 📂 Beta Server Mods
+# 📂 Server Mods
 
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS (This page will be deleted after BETA.)**</mark>
-
-Note: these mods are only in Beta. And most likey won't be change till server release.
+{% hint style="info" %}
+IF you ran into a error like this <img src="../.gitbook/assets/image (47).png" alt="" data-size="line">, follow these steps:\
+Close your game, Return to steam, Unturned\
+Right click, Properties, Verify intergrity of game files.
 {% endhint %}
 
-Pento Tactical Apparel (CREATED BY Pento , SargeJames)
+<details>
 
-<img src="../.gitbook/assets/image (79).png" alt="" data-size="original">
+<summary><img src="../.gitbook/assets/image (44).png" alt="" data-size="line">Northwich Main Mod</summary>
 
-This mod adds tactical clothes and gear to the game. I made this due to the boring selection of clothing both in the based game and other mods.
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2995576162](https://steamcommunity.com/sharedfiles/filedetails/?id=2995576162)
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=1727733956" %}
+Mod Requires: [City Expansion](https://steamcommunity.com/workshop/filedetails/?id=1835889097), [City Expansion 2](https://steamcommunity.com/workshop/filedetails/?id=1935236838), [Just Letters](https://steamcommunity.com/workshop/filedetails/?id=2351854662), [Northwich NPCs](https://steamcommunity.com/workshop/filedetails/?id=2989216558), [NorthwichRP](https://steamcommunity.com/workshop/filedetails/?id=2919188569), [Objects from all Curated Projects! 6250 Objects! 15/3/2023 UPDATE](https://steamcommunity.com/workshop/filedetails/?id=2899489911), [Road Expansion](https://steamcommunity.com/workshop/filedetails/?id=1771005393), [Vanilla Vehicles 3](https://steamcommunity.com/workshop/filedetails/?id=2726825602), [Vanilla Vehicles Legacy](https://steamcommunity.com/workshop/filedetails/?id=2907647264), [Resources from all Curated Assets! Trees, Foliage & Materials!](https://steamcommunity.com/workshop/filedetails/?id=2941229986), [Simple Doors & Keys Mod](https://steamcommunity.com/workshop/filedetails/?id=2887839342), [\[MILITARY & MORE!\] Large N' Lazy Object Pack | V 1.0.5](https://steamcommunity.com/workshop/filedetails/?id=2812497760)
 
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (41).png" alt="" data-size="line">NorthwichRP</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2919188569](https://steamcommunity.com/sharedfiles/filedetails/?id=2919188569)
+
+Modpack will be whitelisted only for the Northwich RP server in the future. Using items from here might only cause you complications in the future.
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (45).png" alt="" data-size="line">Northwich UIs</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2995040356](https://steamcommunity.com/sharedfiles/filedetails/?id=2995040356)
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (40).png" alt="" data-size="line">Northwich NPCs</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2989216558](https://steamcommunity.com/sharedfiles/filedetails/?id=2989216558)
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (46).png" alt="" data-size="line">Northwich Guns</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=3002027819](https://steamcommunity.com/sharedfiles/filedetails/?id=3002027819)
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (43).png" alt="" data-size="line">More Farming Mod</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1232252658](https://steamcommunity.com/sharedfiles/filedetails/?id=1232252658)\
+This is a comprehensive expansion mod which enrich PvE life mainly about farming and housing. New animals and crop seeds will spawn naturally in the official maps (except curated maps). It also has a useful function to help you organize items. Press the subscribe button and restart the game to complete the mod installation.
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/City Expansion.png" alt="" data-size="line">City Expansion</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1835889097](https://steamcommunity.com/sharedfiles/filedetails/?id=1835889097)\
+This expansion contains 45 only objects for your cities. The mod is still on progress, so i will be adding some objects each week or month.
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/City Expansion 2.png" alt="" data-size="line">City Expansion 2</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1935236838](https://steamcommunity.com/sharedfiles/filedetails/?id=1935236838)\
+Do not reupload the mod or edit the models without Nardo's permission
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/Letters.png" alt="" data-size="line">Just Letters</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2351854662](https://steamcommunity.com/sharedfiles/filedetails/?id=2351854662)\
+Objects-letters. Simple. This is Small object type. No collision. Full English alphabet. Black and white colors. Capital and lowercase versions. LODs for optimisation included.\
 \
-A.C.M.S. Unturnov Weapons | WIP version 1.9.14 (CREATED BY Torqs) \
-![](<../.gitbook/assets/image (78).png>)![](<../.gitbook/assets/image (118).png>)
+Reupload, side publication or monetization anywhere NOT ALLOWED. This will enforce DMCA takedown from Second Cog's side.
 
-* unique weapon modding system\
+</details>
 
-* 37 basic weapons\
+<details>
 
-* 138 weapons in total (with modified version)\
+<summary><img src="../.gitbook/assets/Objects from all Curated Projects!.png" alt="" data-size="line">Objects from all Curated Projects! 6250 Objects! 15/3/2023 UPDATE</summary>
 
-* 150 supplies items\
+Ever wanted one _specific_ object from some curated project? Well now you can have almost every single object from curated projects, it is only 150mb, that's not too much compared to the +2,5gb for all curated projects combined.
 
-* Unturned II / 4.0 style\
+</details>
 
-* no natural spawns\
+<details>
 
-* inspired by Escape from Tarkov\
+<summary><img src="../.gitbook/assets/Road Expansion.png" alt="" data-size="line">Road Expansion</summary>
 
-* made in Germany
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1771005393](https://steamcommunity.com/sharedfiles/filedetails/?id=1771005393)\
+This mod was created for the people who have difficult making sidewalk and that kind of things.
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2421306199" %}
+</details>
 
-A.C.M.S. Unturnov Armors | WIP version 1.1.2 (CREATED BY Torqs)&#x20;
+<details>
 
-![](<../.gitbook/assets/image (105).png>)![](<../.gitbook/assets/image (64).png>)![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (226).png>)
+<summary><img src="../.gitbook/assets/Vanilla Vehicle 3.png" alt="" data-size="line">Vanilla Vehicles 3 </summary>
 
-* unique armor modding system\
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2726825602](https://steamcommunity.com/sharedfiles/filedetails/?id=2726825602)\
+More Info on: [vehicle](vehicle/ "mention")
 
-* 32 body armors\
+</details>
 
-* 6 chest rigs\
+<details>
 
-* 33 helmets\
+<summary><img src="../.gitbook/assets/Vanilla Vehicle Legacy.png" alt="" data-size="line">Vanilla Vehicles Legacy </summary>
 
-* 128 items in total (vests, helmets, masks, glasses, shirts, pants, backpacks and supplies)\
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2907647264](https://steamcommunity.com/sharedfiles/filedetails/?id=2907647264)\
+More Info on: [vehicle-old.md](vehicle/vehicle-old.md "mention")
 
-* Unturned II / 4.0 style\
+</details>
 
-* no natural spawns\
+<details>
 
-* inspired by Escape from Tarkov\
+<summary><img src="../.gitbook/assets/Resources from all Curated Assets!.png" alt="" data-size="line">Resources from all Curated Assets! Trees, Foliage &#x26; Materials!</summary>
 
-* made in Germany
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2941229986](https://steamcommunity.com/sharedfiles/filedetails/?id=2941229986)\
+This mod has specifically only Trees, Foliage & Materials from across all Curated Projects! Instead of downloading every single mod, you can just use this and cut down the size of mods drastically! There's 209 resources; bushes, trees, metal nodes.
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2463099029" %}
+</details>
 
-Northwich Homemade Mods (CREATED BY Loco , Muuh , Stilau , Binu)
+<details>
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<summary><img src="../.gitbook/assets/Simple Doors &#x26; Keys Mod.png" alt="" data-size="line">Simple Doors &#x26; Keys Mod</summary>
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2919188569" %}
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2887839342](https://steamcommunity.com/sharedfiles/filedetails/?id=2887839342)\
+A mod for the map-maker.
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2995576162" %}
+</details>
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2995040356" %}
+<details>
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2989216558" %}
+<summary><img src="../.gitbook/assets/Large n Lazy Object.png" alt="" data-size="line">[MILITARY &#x26; MORE!] Large N' Lazy Object Pack | V 1.0.5</summary>
 
-City Expansion mods (CREATED BY Nardo)
-
-![](<../.gitbook/assets/image (217).png>)![](<../.gitbook/assets/image (98).png>)
-
-![](<../.gitbook/assets/image (178).png>)![](<../.gitbook/assets/image (230).png>)
-
-This mod has over 200 Objects to decorate your maps. From buildings to sign post.
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=1935236838" %}
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=1835889097" %}
-
-Simple Door Key Mod (CREATED BY biedaktokox)
-
-![](<../.gitbook/assets/image (210).png>)![](<../.gitbook/assets/image (148).png>)
-
-_Are you a map editor who forced players to download 500mb of Elver just to use 3 doors on your custom map? We have a solution for you!_\
-\
-Mod adds 22 different doors and 20 different keys, waiting for you to add them to your project. All doors have custom animations and sounds. Creating new doors with keys is easy, simple and user friendly
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2887839342" %}
-
-\[MILITARY & MORE!] Large N' Lazy Object Pack | V 1.0.5 (CREATED BY LazyLee)
-
-![](<../.gitbook/assets/image (240).png>)![](<../.gitbook/assets/image (174).png>)
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2812497760](https://steamcommunity.com/sharedfiles/filedetails/?id=2812497760)
 
 Now with Large N' Lazy, You can give your maps much more flavor and variety! With over 200+ Ready-to-use buildings of various types, from small homes all the way to massive casinos, you can build many new and interesting locations.
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2812497760" %}
+</details>
 
-Vanilla Vehicle Legacy and Vannila Vehicle 3 (CREATED BY Jp)
+<details>
 
-![](<../.gitbook/assets/image (168).png>)![](<../.gitbook/assets/image (93).png>)
+<summary><img src="../.gitbook/assets/image (249).png" alt="" data-size="line">Prison Expansion</summary>
 
-A new iteration from the Vanilla Vehicles series is here! Vanilla Vehicles Legacy aims to bring back the simplicity of VV2, with the love and care of VV3, it has revised physics, a new design style, brand new cars and more! Hope you enjoy it.
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2255493841](https://steamcommunity.com/sharedfiles/filedetails/?id=2255493841)
 
-More Logistics and items are planned, as well as plenty of more variety for the tuning aspect of the mod.
+Prision Expansion is one of the newest mods made by me using masterbundle and i'm still making new expansions for the future, so stay tuned and join to our [Discord Server](https://discord.com/invite/rtcWEaF).
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2726825602" %}
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2907647264" %}
-
-Road Expansion (Nardo)
-
-![](<../.gitbook/assets/image (97).png>)![](<../.gitbook/assets/image (77).png>)
-
-This mod was created for the people who have difficult making sidewalk and that kind of things. This mod contains:
-
-\-Road Sidewalk #1 -Road Sidewalk Ramp #1 -Road Sidewalk Cap #1 -Road Parking Zone #1 -Road Parking Zone #2
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=1771005393" %}
-
-Objects from all Curated Projects! 6250 Objects! 15/3/2023 UPDATE (CREATED BY Loco)
-
-![](<../.gitbook/assets/image (36).png>)
-
-Ever wanted one _specific_ object from some curated project? Well now you can have almost every single object from curated projects, it is only 150mb, that's not too much compared to the +2,5gb for all curated projects combined.\
-\
-Some objects might be missing, I deleted almost every single object and note which used masterbundle override as it would be complicated for me to fix those, it shouldn't be a big issue and doesn't have a big impact. There are currently 6250 objects, which is more than enough for map making!\
-\
-_All credits go to original makers of all curated projects._\
+</details>
 
 
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2899489911" %}
-
-Just Letters (CREATED BY Second Cog)
-
-![](<../.gitbook/assets/image (225).png>)
-
-Objects-letters. Simple. This is Small object type. No collision. Full English alphabet. Black and white colors. Capital and lowercase versions. LODs for optimisation included.
-
-{% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2351854662" %}
 

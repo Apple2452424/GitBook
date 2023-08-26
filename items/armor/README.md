@@ -1,0 +1,95 @@
+# 👕 Armor
+
+{% hint style="danger" %}
+<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS (Might not be used in Official Update.)**</mark>
+{% endhint %}
+
+{% tabs %}
+{% tab title="Head" %}
+## Helmet
+
+<table><thead><tr><th width="170.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (109).png" alt="">Ushanka Cap</td><td></td><td>Material: Cloth <br>Armor Class: N/A <br>Blast protection: 0%</td></tr><tr><td><img src="../../.gitbook/assets/image (224).png" alt="">Miltec Panama Hat</td><td></td><td>Material: Cloth <br>Armor Class: N/A <br>Blast protection: 0%</td></tr><tr><td><img src="../../.gitbook/assets/image (222).png" alt="">Kolpak-1S Helmet</td><td></td><td>Material: Aramid <br>Armor class: 2 <br>Blast protection: 25%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115531796/FF189F1737E3BD996F86361D181E38555AD37299/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115531796/FF189F1737E3BD996F86361D181E38555AD37299/" alt=""></a><br>Fast MT Kek Helmet</td><td></td><td>Material: comb. materials Armor class: 1-2 <br>Blast protection: 10-30%<br><br>Extra : <em>SA / TM / TM+SA / Ops-Core Fast Side Armor / Tac-Kek Trooper Mask</em></td></tr><tr><td><img src="../../.gitbook/assets/image (110).png" alt="">UNTAR Helmet</td><td></td><td>Material: Aramid <br>Armor class: 3 <br>Blast protection: 10%</td></tr><tr><td><img src="../../.gitbook/assets/image (111).png" alt="">SSh-68 Helmet</td><td></td><td>Material: armor steel <br>Armor class: 3 <br>Blast protection: 5%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1773831778925015450/D211CF39DCDEBD0B349EB1E4AE7C66FAE4FBCCC1/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1773831778925015450/D211CF39DCDEBD0B349EB1E4AE7C66FAE4FBCCC1/" alt=""></a><br>6B47 Ratnik-BSh Helmet</td><td></td><td>Material: aluminium <br>Armor class: 3 <br>Blast protection: 10%<br><br>Extra : <em>6B47 Ratnik-BSh Flora Helmet / 6B47 Ratnik-BSh Helmet</em></td></tr><tr><td><img src="../../.gitbook/assets/image (209).png" alt="">DEVTAC Ronin ballistic Helmet</td><td></td><td>Material: Aramid <br>Armor class: 3.1 <br>Blast protection: 30%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1773832262408756191/03A633E963A0221E8E0D4CE2A07C846674F3A258/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1773832262408756191/03A633E963A0221E8E0D4CE2A07C846674F3A258/" alt=""></a><br>Highcom Striker ACHHC IIIA Helmet</td><td></td><td>Material: Aramid <br>Armor class: 4 <br>Blast protection: 10%<br><br>Extra : Highcom Striker ACHHC IIIA Black Helmet / OliveHelmet</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1773832262408756670/EDD913CC2ADA693F4B4261F355EFA204C6870EED/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1773832262408756670/EDD913CC2ADA693F4B4261F355EFA204C6870EED/" alt=""></a><br>Highcom Striker ULACH IIIA Helmet</td><td></td><td>Material: Aramid <br>Armor class: 4 <br>Blast protection: 20%<br><br>Extra : ULACH IIIA Black Helmet / Tan Helmet</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115529825/B4BA7CF3AC768FB5D13E851151A86FE73487A7A4/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115529825/B4BA7CF3AC768FB5D13E851151A86FE73487A7A4/" alt=""></a><br>Airframe Helmet</td><td></td><td>Material: comb. materials Armor class: 4 <br>Blast protection: 20-40%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115532621/174F1F59CA2604CD2B356C720E42BB2024A2C8A4/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115532621/174F1F59CA2604CD2B356C720E42BB2024A2C8A4/" alt=""></a><br>Fast MT Black Helmet</td><td></td><td>Material: comb. materials Armor class: 4-5 <br>Blast protection: 10-30%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115530855/EFEEE5E4D33141F9EEABA750832BC53DC5D209A5/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115530855/EFEEE5E4D33141F9EEABA750832BC53DC5D209A5/" alt=""></a><br>Fast MT Tan Helmet</td><td></td><td>Material: comb. materials Armor class: 4-5 <br>Blast protection: 10-30%</td></tr><tr><td><img src="../../.gitbook/assets/image (214).png" alt="">Ops-Core Light Trooper Helmet</td><td></td><td>Material: comb. materials Armor class: 4<br>Blast protection: 30%</td></tr><tr><td><img src="../../.gitbook/assets/image (34).png" alt="">Ops-Core Heavy Trooper Helmet</td><td></td><td>Material: comb. materials Armor class: 4.1<br>Blast protection: 40%</td></tr><tr><td><img src="../../.gitbook/assets/image (241).png" alt="">Ops-Core Fast MT Samurai Helmet</td><td></td><td>Material: comb. materials Armor class: 4.1<br>Blast protection: 40%</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1773831778925066701/AA4EFEBAC489DCBD72AAA598EAE928FC1839586A/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1773831778925066701/AA4EFEBAC489DCBD72AAA598EAE928FC1839586A/" alt=""></a><br>Maska 1Sch Helmet</td><td></td><td>Material: Armor Steel <br>Armor class: 5 <br>Blast protection: 40%</td></tr><tr><td><img src="../../.gitbook/assets/image (121).png" alt="">Altyn Helmet</td><td></td><td>Material: Armor Steel <br>Armor class: 5 <br>Blast protection: 50%</td></tr></tbody></table>
+
+## Headsets
+
+<table><thead><tr><th width="185.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (72).png" alt="">GSSh-01 Headset</td><td></td><td></td></tr><tr><td><img src="../../.gitbook/assets/image (181).png" alt="">Peltor ComTac Headset</td><td></td><td></td></tr><tr><td><img src="../../.gitbook/assets/image (145).png" alt="">Walkers XCEL Headset</td><td></td><td></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Vest " %}
+## Vest
+
+<table><thead><tr><th width="155.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (83).png" alt="">Scav Vest</td><td></td><td>Space in slots: 6</td></tr><tr><td><img src="../../.gitbook/assets/image (247).png" alt="">Alpha Chest Rig</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../../.gitbook/assets/image (221).png" alt="">Belt Gear Rig</td><td></td><td>Space in slots: 25</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115524213/96FC6D891DE6B1822DC9252731F8D6568E70684C/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115524213/96FC6D891DE6B1822DC9252731F8D6568E70684C/" alt=""></a><br>PACA Soft Armor</td><td></td><td>Material: Aramid <br>Armor Class: 2 <br>Blast Protection: 10% <br>Space in slots: 2-12</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115524747/0B147AB858B77244A5058AB752C7D29A22A6E3B2/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115524747/0B147AB858B77244A5058AB752C7D29A22A6E3B2/" alt=""></a><br>Module-3M Armor</td><td></td><td>Material: Aramid <br>Armor Class: 2 <br>Blast Protection: 10% <br>Space in slots: 2-12</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525148/F7CC3D853894318C09767A0108D475A30E92026A/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525148/F7CC3D853894318C09767A0108D475A30E92026A/" alt=""></a><br>MF-UNTAR Armor</td><td></td><td>Material: Aluminium <br>Armor Class: 3 <br>Blast Protection: 10% <br>Space in slots: 2-10</td></tr><tr><td><img src="../../.gitbook/assets/image (242).png" alt="">6B5-16 Zh-86 Armor</td><td></td><td>Material: Titan <br>Armor Class: 3 <br>Blast Protection: 30% <br>Space in slots: 10</td></tr><tr><td><img src="../../.gitbook/assets/image (211).png" alt="">6B5-15 Armor Flora</td><td></td><td>Material: Ceramic <br>Armor Class: 4 <br>Blast Protection: 30% <br>Space in slots: 10</td></tr><tr><td><img src="../../.gitbook/assets/image (101).png" alt="">6B3TM-01M Armor</td><td></td><td>Material: Titan <br>Armor Class: 4 <br>Blast Protection: 15% <br>Space in slots: 12</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115526463/8878C1132186979DB58743C5D23C6350726B1AFE/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115526463/8878C1132186979DB58743C5D23C6350726B1AFE/" alt=""></a><br>Highcom Trooper TFO Armor Multicam</td><td></td><td>Material: Ultra Polyethylene Armor Class: 4 <br>Blast Protection: 10% <br>Space in slots: 2-10</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525922/2EB2E459D034241D7FF17E97E626B02489003E15/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525922/2EB2E459D034241D7FF17E97E626B02489003E15/" alt=""></a><br>Highcom Trooper TFO Armor Tropic</td><td></td><td>Material: Ultra Polyethylene Armor Class: 4 <br>Blast Protection: 10% <br>Space in slots: 2-10</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115523745/4104A531AA493C4111DE6E1F662200663BC61BBC/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115523745/4104A531AA493C4111DE6E1F662200663BC61BBC/" alt=""></a><br>TV-110 Plate Carrier</td><td></td><td>Material: Armor Steel <br>Armor Class: 4 <br>Blast Protection: 10% <br>Space in slots: 2-10</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115528480/D012F6715F179A4D254905CFCE34E06137DF3C64/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115528480/D012F6715F179A4D254905CFCE34E06137DF3C64/" alt=""></a><br>Crye Precision AVS Platecarrier</td><td></td><td>Material: comb. materials <br>Armor Class: 4 <br>Blast Protection: 20% <br>Space in slots: 2-18</td></tr><tr><td><img src="../../.gitbook/assets/image (244).png" alt="">6B13 M KILLA Armor</td><td></td><td>Material: Ultrahighweight Polyethylene <br>Armor Class: 5 <br>Blast Protection: 30% <br>Space in slots: 12</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525577/2D927C08F80D8D3A226A0EF64165640775EB707A/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115525577/2D927C08F80D8D3A226A0EF64165640775EB707A/" alt=""></a><br>IOTV Gen4 Armor</td><td></td><td>Material: Titan <br>Armor Class: 5 <br>Blast Protection: 40% <br>Space in slots: 2-8</td></tr><tr><td><a href="https://steamuserimages-a.akamaihd.net/ugc/1751313450115529315/961BF8D4CCA23D1668CA95D1332A8478D59A99C5/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1751313450115529315/961BF8D4CCA23D1668CA95D1332A8478D59A99C5/" alt=""></a><br>6B43 6A Armor</td><td></td><td>Material: comb. materials <br>Armor class: 6 <br>Blast protection: 40% <br>Space in slots: 2-8</td></tr></tbody></table>
+
+## Armor Plate
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image (175).png" alt="" width="188"><figcaption><p>Used to repair armors<br>Armor Class 1-6</p></figcaption></figure>
+
+</div>
+{% endtab %}
+
+{% tab title="Backpack" %}
+
+
+<table><thead><tr><th width="179.66666666666666">Names</th><th>Location / Requirement</th><th>Info</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/image (142).png" alt="">VKBO Army Bag</td><td></td><td>Space in slots: 8</td></tr><tr><td><img src="../../.gitbook/assets/image (162).png" alt="">Flyye MBSS Backpack</td><td></td><td>Space in slots: 16</td></tr><tr><td><img src="../../.gitbook/assets/image (202).png" alt="">Scav Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../../.gitbook/assets/image (208).png" alt="">LBT-8005A Day Pack Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../../.gitbook/assets/image (127).png" alt="">Berkut VV-102 Backpack</td><td></td><td>Space in slots: 20</td></tr><tr><td><img src="../../.gitbook/assets/image (46) (1).png" alt="">Camelba Tri-Zip Backpack</td><td></td><td>Space in slots: 30</td></tr><tr><td><img src="../../.gitbook/assets/image (228).png" alt="">Pilgrim Tourist Backpack</td><td></td><td>Space in slots: 35</td></tr><tr><td><img src="../../.gitbook/assets/image (182).png" alt="">6SH118 Raid Backpack</td><td></td><td>Space in slots: 48</td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Outfit" %}
+
+
+| Names                                                                 | Location / Requirement | Info              |
+| --------------------------------------------------------------------- | ---------------------- | ----------------- |
+| ![](<../../.gitbook/assets/image (239).png>)USEC Base Upper           |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (171).png>)USEC Base Lower           |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (71).png>)USEC PCS Multicam          |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (166).png>)USEC TIER3 Lower          |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (188).png>)USEC Night Patrol         |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (155).png>)USEC Sage Warrior         |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (207).png>)BEAR Base Upper           |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (191).png>)BEAR Base Lower           |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (141).png>)BEAR Summer Field Upper   |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (172).png>)BEAR Summer Field Lower   |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (176).png>)BEAR Ghost Marksman Upper |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (164).png>)BEAR Ghost Marksman Lower |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (128).png>)Tracksuit Upper           |                        | Space in slots: 2 |
+| ![](<../../.gitbook/assets/image (131).png>)Tracksuit Lower           |                        | Space in slots: 2 |
+
+
+{% endtab %}
+
+{% tab title="Mask" %}
+
+
+| Names                                                                                                                                                                                                                                                                | Location / Requirement | Info |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
+| ![](<../../.gitbook/assets/image (186).png>)Momex Balaclava                                                                                                                                                                                                          |                        |      |
+| ![](<../../.gitbook/assets/image (184).png>)Balaclava                                                                                                                                                                                                                |                        |      |
+| ![](<../../.gitbook/assets/image (134).png>)Cold Fear Infrared Balaclava                                                                                                                                                                                             |                        |      |
+| ![](<../../.gitbook/assets/image (158).png>)Lower Half-Mask                                                                                                                                                                                                          |                        |      |
+| ![](<../../.gitbook/assets/image (56).png>)Fake Mustache                                                                                                                                                                                                             |                        |      |
+| ![](<../../.gitbook/assets/image (82).png>)GP-7 Gasmask                                                                                                                                                                                                              |                        |      |
+| <p><a href="https://steamuserimages-a.akamaihd.net/ugc/1773832262408765326/E1AEAA91FB3AF7505E38BD853885F70FBDA0586C/"><img src="https://steamuserimages-a.akamaihd.net/ugc/1773832262408765326/E1AEAA91FB3AF7505E38BD853885F70FBDA0586C/" alt=""></a><br>Shemagh</p> |                        |      |
+{% endtab %}
+
+{% tab title="Glasses / NV" %}
+## Glasses
+
+| Names                                                                  | Location / Requirement | Info |
+| ---------------------------------------------------------------------- | ---------------------- | ---- |
+| ![](<../../.gitbook/assets/image (149).png>)6B34 Glasses               |                        |      |
+| ![](<../../.gitbook/assets/image (231).png>)Anti-fragmentation Glasses |                        |      |
+| ![](<../../.gitbook/assets/image (159).png>)Crossbow Tactical Glasses  |                        |      |
+| ![](<../../.gitbook/assets/image (124).png>)RayBench Aviator Glasses   |                        |      |
+| ![](<../../.gitbook/assets/image (177).png>)Hipster Sunglasses         |                        |      |
+| ![](<../../.gitbook/assets/image (185).png>)Round Frame Sunglasses     |                        |      |
+| ![](<../../.gitbook/assets/image (153).png>)Tactical Glasses           |                        |      |
+
+## Night Vision
+
+| Names                                                                                                                                                                                                                                                     | Location / Requirement | Info |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
+| [![](https://steamuserimages-a.akamaihd.net/ugc/1773832262408756465/058FC7FD5EEC4ABE0F87D433AD8A254841D04074/)](https://steamuserimages-a.akamaihd.net/ugc/1773832262408756465/058FC7FD5EEC4ABE0F87D433AD8A254841D04074/)GPNVG-18 Nightvision Tan / Black |                        |      |
+| ![](<../../.gitbook/assets/image (68).png>)PNV-10T Nightvision                                                                                                                                                                                            |                        |      |
+{% endtab %}
+{% endtabs %}

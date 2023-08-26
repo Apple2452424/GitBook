@@ -1,13 +1,14 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
-
 ## About us
 
+* [👋 Welcome!](README.md)
 * [❓ FAQ](about-us/faq.md)
 
 ## 🪨 Resources
 
+* [♻ Trash](resources/trash.md)
+* [🥫 Supplies](resources/supplies.md)
 * [🎣 Fishing](resources/fishing.md)
 * [🔨 Scrapyard](resources/scrapyard.md)
 * [⛏ Mine](resources/mine.md)
@@ -16,30 +17,30 @@
 
 ## ✏ Items
 
+* [💳 License](items/license.md)
 * [🚧 Barricade](items/barricade/README.md)
   * [🚨 Horde Beacon](items/barricade/horde-beacon.md)
   * [🗄 Storage](items/barricade/storage.md)
   * [📹 Sentry](items/barricade/sentry.md)
   * [⛽ Gas](items/barricade/gas.md)
 * [🔫 Guns](items/guns/README.md)
-  * [Attachment](items/guns/attachment.md)
-  * [Mics](items/guns/mics.md)
-* [👕 Armor](items/armor.md)
+  * [NW . Attachment](items/guns/attachment.md)
+* [👕 Armor](items/armor/README.md)
+  * [👮♂ Faction](items/armor/faction.md)
 * [💰 Money](items/money.md)
+* [🕶 Nightvision](items/nightvision.md)
 * [😷 Gasmask](items/gasmask.md)
 * [🎒 Backpack](items/backpack.md)
 * [🎨 Paint Buckets](items/paint-buckets.md)
 
 ## Mics
 
-* [🤖 NPC](mics/npc.md)
 * [👤 Jobs](mics/jobs.md)
-* [🏎 Vehicle](mics/vehicle/README.md)
-  * [🚗 Vehicle OLD](mics/vehicle/vehicle-old.md)
-* [🗺 Location](mics/location.md)
-* [💡 Tutorials / Tips](mics/tutorials-tips.md)
-* [📂 Beta Server Mods](mics/server-mods.md)
-* [📂 Server Mods](mics/server-mods-1.md)
+* [🧙♂ Faction](mics/faction.md)
+* [🏎 V.V.L](mics/vehicle/README.md)
+  * [🚗 V.V.3](mics/vehicle/vehicle-old.md)
+* [💡 Information](mics/tutorials-tips.md)
+* [📂 Server Mods](mics/server-mods.md)
 
 ## 👨💻 👨💻 Plugins
 

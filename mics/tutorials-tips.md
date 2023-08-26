@@ -1,20 +1,10 @@
-# 💡    Tutorials / Tips
+# 💡 Information
+
+
 
 {% hint style="danger" %}
 <mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
 {% endhint %}
-
-## Mining:
-
-Cave have 6 layers
-
-## Lumber:
-
-## Farming:
-
-## Drug:
-
-## Printing:
 
 ## Properties:
 
