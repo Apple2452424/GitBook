@@ -22,12 +22,6 @@ layout:
 
 ## 👋 Welcome!
 
-{% hint style="danger" %}
-**About this Wiki:** This wiki is working in progress. Some stuff may be unfinished.
-
-If you would like to contribute to the wiki, please head to this [link](https://github.com/Apple2452424/GitBook/issues/new).
-{% endhint %}
-
 {% embed url="https://www.youtube.com/watch?v=4GcGhUBVw5Y" fullWidth="true" %}
 
 ***
