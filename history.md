@@ -4,9 +4,9 @@ description: A page contains all the movement around Northwich.
 
 # 👥 History
 
-<img src=".gitbook/assets/Beret_Orange_Triple_19334.png" alt="" data-size="line"> List of contributor
+#### <img src=".gitbook/assets/Beret_Orange_Triple_19334.png" alt="" data-size="line"> List of contributor' Permanent List \\/
 
-<table><thead><tr><th width="166.33333333333331" data-type="users" data-multiple></th><th width="145">Roles</th><th>Contribution</th></tr></thead><tbody><tr><td><a href="http://127.0.0.1:5000/u/KqsmLLkT4shYjz98SMXnun7ed9B3">Apple</a></td><td>Bureaucrat</td><td>Everything</td></tr><tr><td><a href="http://127.0.0.1:5000/u/dzEj2MvZFCd9xs11Zx5L8I0VDEn2">27 hengp</a></td><td>Administrator</td><td>Server mods</td></tr><tr><td><a href="http://127.0.0.1:5000/u/kZJj8jhviiaHwuLCz3hZ0tg8Nlo2">StilauGamer</a></td><td>Administrator</td><td>n/a</td></tr></tbody></table>
+<table><thead><tr><th width="166.33333333333331" data-type="users" data-multiple>Names</th><th width="145">Roles</th><th>Contribution</th></tr></thead><tbody><tr><td><a href="http://127.0.0.1:5000/u/KqsmLLkT4shYjz98SMXnun7ed9B3">Apple</a></td><td>Bureaucrat</td><td>Everything</td></tr><tr><td><a href="http://127.0.0.1:5000/u/dzEj2MvZFCd9xs11Zx5L8I0VDEn2">27 hengp</a></td><td>Administrator</td><td>Server mods</td></tr><tr><td><a href="http://127.0.0.1:5000/u/kZJj8jhviiaHwuLCz3hZ0tg8Nlo2">StilauGamer</a></td><td>Administrator</td><td>Domain Provider</td></tr></tbody></table>
 
 <table><thead><tr><th width="168.33333333333331">Users</th><th width="146">Roles</th><th>Contribution</th></tr></thead><tbody><tr><td>Scared</td><td>Contributor</td><td>vehicles</td></tr></tbody></table>
 
@@ -20,7 +20,7 @@ Server History (Date maybe wrong.)
 
 ***
 
-Last update since: <mark style="background-color:green;">**7/22/2023**</mark>
+Last update since: <mark style="background-color:green;">**8/30/2023**</mark>
 
 ***
 

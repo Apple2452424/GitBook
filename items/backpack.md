@@ -2,7 +2,7 @@
 
 {% hint style="danger" %}
 <mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>\
-**Current information are from BETA Stage, stuff may change in future.**
+**These recipe are pain to get. Might take some times.**
 {% endhint %}
 
 To acquire a T6 item, you must fulfill the following requirements: complete the <mark style="color:red;">**main quest**</mark>, possess the corresponding blueprint, and be a donator to craft it.

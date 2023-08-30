@@ -6,8 +6,11 @@ description: https://discord.gg/JV8WENt8Wb ( Hyperlink work only if you join the
 
 Official Faction:\
 **- Police (** [**Clothes**](../items/armor/faction.md#police) **) ( Kits ) ( Base )**\
+&#x20;  **\*REQ:** \
 **- Mafia (** [**Clothes** ](../items/armor/faction.md#mafia)**) ( Kits ) ( Base )**\
+&#x20;  **\*REQ:** \
 **- Mercenary (** [**Clothes**](../items/armor/faction.md#mercenary) **) ( Kits ) ( Base )**\
+&#x20;  **\*REQ:** \
 \
 Custom Faction:\
 **N/A**\

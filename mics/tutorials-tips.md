@@ -4,6 +4,8 @@
 
 ### Northwich RP Ranks:
 
+## Ranks:
+
 #### [Staff](https://docs.google.com/spreadsheets/d/1SGV03Xm\_\_ADFHnq-e7KhRImln1vKRIQ8IbYjGmEZ3D0/edit#gid=1681076238)
 
 Server Managers\
@@ -21,7 +23,10 @@ Sponsor \
 Donor \
 Promoter \
 Supporter \
-Patron
+Patron\
+\
+Funder\
+\- Able to obtain by donating $5 to this [place](https://ko-fi.com/northwich).
 
 ## Properties:
 
@@ -41,4 +46,6 @@ House + barns - 125,000 \
 Idea - 150,000 \
 Faction Bases - 300,000 \
 Light Island - 800,000 \
-Unknown Island - 1,000,000
+Unknown Island - 1,000,000\
+\
+You may only own 1 house/room at a time.

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/image_2023-08-27_115950398.png
+coverY: 115
+---
+
 # 🔫 Guns
 
 
@@ -8,7 +13,7 @@ T.O.C: \
 [#utilities](./#utilities "mention")[#ammo](./#ammo "mention")[#barrels](./#barrels "mention")[#grips](./#grips "mention")[#guns](./#guns "mention")[#magazines](./#magazines "mention")[#melee](./#melee "mention")[#sights](./#sights "mention")[#tacticals](./#tacticals "mention")
 
 {% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS  (Being work on.)**</mark>
+Weapon's usage n Info will be filled in slowly. Some missing images will be added in after workshop is updated!
 {% endhint %}
 
 {% tabs %}

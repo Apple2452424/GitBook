@@ -12,12 +12,6 @@ Here is the map of Northwich \[Not Updated]
 
 </div>
 
-{% hint style="warning" %}
-Being work on.
-{% endhint %}
-
-### Rules & Laws
-
 * &#x20;<img src="../.gitbook/assets/nw_rules.png" alt="" data-size="line"> [Discord Rules](https://discord.com/channels/456473184728776724/1050504178348331079/1097818797802541066)
 * &#x20;<img src="../.gitbook/assets/nw_rules (1).png" alt="" data-size="line"> [Server Rules](https://docs.google.com/document/d/1UVJA9mqcAhY-b6Jk1aHfjrTffg0Fv4luta-QvPkOAGU)
 * &#x20;<img src="../.gitbook/assets/nw_document.png" alt="" data-size="line"> [Server Laws](https://docs.google.com/document/d/1\_PdIbwFL4SzmiZMfPgcp6xFsFX-uKJLkpz7hvzlQ\_O0)
@@ -50,4 +44,6 @@ _Some stuff may be not finished, it'll all be completed within the next upcoming
 ### Wiki Related
 
 * <img src="../.gitbook/assets/nw_document (1).png" alt="" data-size="line"> Why is does the update for wiki so slow?\
-  \- The reason is because its a one man job, and it requires a lot of time to edit. If you have information that the wiki doesn't has, please contact apple47 \[Via Discord] or use the [github](https://github.com/Apple2452424/GitBook/issues).\
+  \- The reason is because its a one man job, and it requires a lot of time to edit. If you have information that the wiki doesn't has, please contact apple47 \[Via Discord] or use the [github](https://github.com/Apple2452424/GitBook/issues).
+* <img src="../.gitbook/assets/nw_document (2).png" alt="" data-size="line"> Is there a Fan guide?\
+  \- Here's the Fan Guide that's different from Northwich official guide, this guide contains even more guide on how to make money.  ( [<mark style="color:red;">W.I.P</mark>](http://127.0.0.1:5000/o/zv1QLXVIh7L4jgOMPlaX/s/okJW3rnXfN2zsjtYLUbd/) )\
