@@ -1,10 +1,31 @@
 # 💡 Information
 
-
-
 {% hint style="danger" %}
 <mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
 {% endhint %}
+
+## Ranks:
+
+### Northwich RP Ranks:
+
+#### [Staff](https://docs.google.com/spreadsheets/d/1SGV03Xm\_\_ADFHnq-e7KhRImln1vKRIQ8IbYjGmEZ3D0/edit#gid=1681076238)
+
+Server Managers\
+Server Developers\
+Administrators\
+Moderators\
+Junior Moderators\
+Trial Moderators\
+Discord Moderation
+
+#### [Donators](https://store.northwichrp.com)
+
+Investor \
+Sponsor \
+Donor \
+Promoter \
+Supporter \
+Patron
 
 ## Properties:
 
