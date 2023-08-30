@@ -1,9 +1,5 @@
 # 💡 Information
 
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
-{% endhint %}
-
 ## Ranks:
 
 ### Northwich RP Ranks:
