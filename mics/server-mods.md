@@ -183,5 +183,17 @@ Prision Expansion is one of the newest mods made by me using masterbundle and i'
 
 </details>
 
+<details>
+
+<summary><img src="../.gitbook/assets/image (250).png" alt="" data-size="line">Pento's Tactical Apparel</summary>
+
+[https://steamcommunity.com/sharedfiles/filedetails/?id=1727733956](https://steamcommunity.com/sharedfiles/filedetails/?id=1727733956)
+
+
+
+This mod adds tactical clothes and gear to the game. I made this due to the boring selection of clothing both in the based game and other mods.
+
+</details>
+
 Steam Workshop Collection: [Northwich](https://steamcommunity.com/sharedfiles/filedetails/?id=3026038523)
 

@@ -44,6 +44,10 @@ _Some stuff may be not finished, it'll all be completed within the next upcoming
 ### Wiki Related
 
 * <img src="../.gitbook/assets/nw_document (1).png" alt="" data-size="line"> Why is does the update for wiki so slow?\
-  \- The reason is because its a one man job, and it requires a lot of time to edit. If you have information that the wiki doesn't has, please contact apple47 \[Via Discord] or use the [github](https://github.com/Apple2452424/GitBook/issues).
+  \- The reason is because its a one man job, and it requires a lot of time to edit. If you have information that the wiki doesn't has, please contact apple47 \[Via Discord] or use the [github](https://github.com/Apple2452424/GitBook/issues).\
+
+* <img src="../.gitbook/assets/nw_faq (1).png" alt="" data-size="line"> How to you prestige to upgrade the car dealer to buy yourself cooler cars?\
+  \- You can prestige by selling stuff to npc, once you reach level 10 you can prestige.\
+
 * <img src="../.gitbook/assets/nw_document (2).png" alt="" data-size="line"> Is there a Fan guide?\
   \- Here's the Fan Guide that's different from Northwich official guide, this guide contains even more guide on how to make money.  ( [<mark style="color:red;">W.I.P</mark>](http://127.0.0.1:5000/o/zv1QLXVIh7L4jgOMPlaX/s/okJW3rnXfN2zsjtYLUbd/) )\

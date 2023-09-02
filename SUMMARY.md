@@ -17,8 +17,10 @@
 
 ## ✏ Items
 
+* [Page](items/page.md)
 * [💳 License](items/license.md)
 * [🚧 Barricade](items/barricade/README.md)
+  * [🏠 Deed](items/barricade/deed.md)
   * [🚨 Horde Beacon](items/barricade/horde-beacon.md)
   * [🗄 Storage](items/barricade/storage.md)
   * [📹 Sentry](items/barricade/sentry.md)
@@ -26,11 +28,12 @@
 * [🔫 Guns](items/guns/README.md)
   * [NW . Attachment](items/guns/attachment.md)
 * [👕 Armor](items/armor/README.md)
+  * [😷 Gasmask](items/armor/gasmask.md)
+  * [🕶 Nightvision](items/armor/nightvision.md)
+  * [🎒 Backpack](items/armor/backpack.md)
   * [👮♂ Faction](items/armor/faction.md)
+  * [📀 Donator](items/armor/donator.md)
 * [💰 Money](items/money.md)
-* [🕶 Nightvision](items/nightvision.md)
-* [😷 Gasmask](items/gasmask.md)
-* [🎒 Backpack](items/backpack.md)
 * [🎨 Paint Buckets](items/paint-buckets.md)
 
 ## Mics
