@@ -14,6 +14,7 @@
 * [⛏ Mine](resources/mine.md)
 * [🌳 Trees](resources/trees.md)
 * [🌾 Crops](resources/crops.md)
+* [🧹 Digging](resources/digging.md)
 
 ## ✏ Items
 

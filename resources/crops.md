@@ -18,16 +18,11 @@
 | <img src="../.gitbook/assets/Berry_Teal_274.png" alt="" data-size="line">Teal              | Berry Island           |       |
 | <img src="../.gitbook/assets/Berry_Vermillion_275.png" alt="" data-size="line">Vermillion  | Berry Island           |       |
 | <img src="../.gitbook/assets/Obsidian_10605.png" alt="" data-size="line">Obsidian          | Berry Island           |       |
-| <img src="../.gitbook/assets/Lime_10604 (1).png" alt="" data-size="line">Lime              |                        |       |
-| <img src="../.gitbook/assets/Crimson_10603.png" alt="" data-size="line">Crimson            |                        |       |
-| <img src="../.gitbook/assets/Citrine_10602.png" alt="" data-size="line">Citrine            |                        |       |
-| <img src="../.gitbook/assets/Blush_10601.png" alt="" data-size="line">Blush                |                        |       |
-| <img src="../.gitbook/assets/Azure_10600.png" alt="" data-size="line">Azure                |                        |       |
-| Rose                                                                                       | -                      |       |
-| Sapphire                                                                                   | -                      |       |
-| Emerald                                                                                    | -                      |       |
-| Topaz                                                                                      | -                      |       |
-| Ruby                                                                                       | -                      |       |
+| <img src="../.gitbook/assets/Lime_10604 (1).png" alt="" data-size="line">Lime              | Berry Island           |       |
+| <img src="../.gitbook/assets/Crimson_10603.png" alt="" data-size="line">Crimson            | Berry Island           |       |
+| <img src="../.gitbook/assets/Citrine_10602.png" alt="" data-size="line">Citrine            | Berry Island           |       |
+| <img src="../.gitbook/assets/Blush_10601.png" alt="" data-size="line">Blush                | Berry Island           |       |
+| <img src="../.gitbook/assets/Azure_10600.png" alt="" data-size="line">Azure                | Berry Island           |       |
 | <img src="../.gitbook/assets/Ethereal_10611.png" alt="" data-size="line">Ethereal          | Berry Island           |       |
 | <img src="../.gitbook/assets/Solar_10613.png" alt="" data-size="line">Solar                | Berry Island           |       |
 | <img src="../.gitbook/assets/Nebula_10612.png" alt="" data-size="line">Nebula              | Berry Island           |       |

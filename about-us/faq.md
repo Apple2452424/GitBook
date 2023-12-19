@@ -50,4 +50,4 @@ _Some stuff may be not finished, it'll all be completed within the next upcoming
   \- You can prestige by selling stuff to npc, once you reach level 10 you can prestige.\
 
 * <img src="../.gitbook/assets/nw_document (2).png" alt="" data-size="line"> Is there a Fan guide?\
-  \- Here's the Fan Guide that's different from Northwich official guide, this guide contains even more guide on how to make money.  ( [<mark style="color:red;">W.I.P</mark>](http://127.0.0.1:5000/o/zv1QLXVIh7L4jgOMPlaX/s/okJW3rnXfN2zsjtYLUbd/) )\
+  \- Here's the Fan Guide that's different from Northwich official guide, this guide contains even more guide on how to make money.  ( [<mark style="color:red;">W.I.P</mark>](https://app.gitbook.com/o/zv1QLXVIh7L4jgOMPlaX/s/okJW3rnXfN2zsjtYLUbd/) )\
