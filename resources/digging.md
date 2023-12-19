@@ -1,5 +1,7 @@
 # 🧹 Digging
 
-
+{% hint style="warning" %}
+**Work in Progress**
+{% endhint %}
 
 <table><thead><tr><th width="158">Item</th><th>Info</th><th>Price</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/T1Shovel_12580.png" alt="">T1 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T2Shovel_12581.png" alt="">T2 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T3Shovel_12582.png" alt="">T3 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T4Shovel_12583.png" alt="">T4 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T5Shovel_12584.png" alt="">T5 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T6Shovel_12585.png" alt="">T6 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr><tr><td><img src="../.gitbook/assets/T7Shovel_12586.png" alt="">T7 Shovel</td><td>A shovel for moving loose material such as sand, dirt or clay.</td><td></td></tr></tbody></table>

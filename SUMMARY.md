@@ -7,7 +7,7 @@
 
 ## 🪨 Resources
 
-* [♻ Trash](resources/trash.md)
+* [♻ Garbage](resources/garbage.md)
 * [🥫 Supplies](resources/supplies.md)
 * [🎣 Fishing](resources/fishing.md)
 * [🔨 Scrapyard](resources/scrapyard.md)
@@ -18,7 +18,8 @@
 
 ## ✏ Items
 
-* [Page](items/page.md)
+* [🏧 Banking](items/banking.md)
+* [🌱 Drugs](items/drugs.md)
 * [💳 License](items/license.md)
 * [🚧 Barricade](items/barricade/README.md)
   * [🏠 Deed](items/barricade/deed.md)
@@ -26,6 +27,7 @@
   * [🗄 Storage](items/barricade/storage.md)
   * [📹 Sentry](items/barricade/sentry.md)
   * [⛽ Gas](items/barricade/gas.md)
+  * [🪟 Glass](items/barricade/glass.md)
 * [🔫 Guns](items/guns/README.md)
   * [NW . Attachment](items/guns/attachment.md)
 * [👕 Armor](items/armor/README.md)

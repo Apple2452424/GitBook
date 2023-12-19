@@ -1,20 +1,10 @@
 # ❓ FAQ
 
-Here is the map of Northwich \[Not Updated]
+### Rules & Laws
 
-<div align="left" data-full-width="true">
-
-<figure><img src="../.gitbook/assets/Map.png" alt="" width="375"><figcaption><p>Northwich</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image_2023-07-22_132648318.png" alt="" width="375"><figcaption><p>Northwich with NPCs (BETA)</p></figcaption></figure>
-
-</div>
-
-* &#x20;<img src="../.gitbook/assets/nw_rules.png" alt="" data-size="line"> [Discord Rules](https://discord.com/channels/456473184728776724/1050504178348331079/1097818797802541066)
-* &#x20;<img src="../.gitbook/assets/nw_rules (1).png" alt="" data-size="line"> [Server Rules](https://docs.google.com/document/d/1UVJA9mqcAhY-b6Jk1aHfjrTffg0Fv4luta-QvPkOAGU)
-* &#x20;<img src="../.gitbook/assets/nw_document.png" alt="" data-size="line"> [Server Laws](https://docs.google.com/document/d/1\_PdIbwFL4SzmiZMfPgcp6xFsFX-uKJLkpz7hvzlQ\_O0)
+* <img src="../.gitbook/assets/nw_rules.png" alt="" data-size="line"> [Discord Rules](https://discord.com/channels/456473184728776724/1050504178348331079/1097818797802541066)
+* <img src="../.gitbook/assets/nw_rules (1).png" alt="" data-size="line"> [Server Rules](https://docs.google.com/document/d/1UVJA9mqcAhY-b6Jk1aHfjrTffg0Fv4luta-QvPkOAGU)
+* <img src="../.gitbook/assets/nw_document.png" alt="" data-size="line"> [Server Laws](https://docs.google.com/document/d/1\_PdIbwFL4SzmiZMfPgcp6xFsFX-uKJLkpz7hvzlQ\_O0)
 
 ### Server Related Links
 
