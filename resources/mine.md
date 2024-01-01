@@ -22,7 +22,7 @@ You will have to complete quest in the first Layer to proceed to another layer.
 | <img src="../.gitbook/assets/Silver_10048.png" alt="" data-size="line">Silver     | Layer 4                |       |
 | <img src="../.gitbook/assets/Copper_10047.png" alt="" data-size="line">Copper     | Layer 2                |       |
 | <img src="../.gitbook/assets/Iron_10046.png" alt="" data-size="line">Iron         | Layer 3                |       |
-| <img src="../.gitbook/assets/Uranium_10041.png" alt="" data-size="line">Uranium   | N/A                    |       |
+| <img src="../.gitbook/assets/Uranium_10041.png" alt="" data-size="line">Uranium   | Deadzone               |       |
 | <img src="../.gitbook/assets/Coal_10040.png" alt="" data-size="line">Coal         | Layer 1                |       |
 
 <div align="left">
