@@ -8,27 +8,27 @@
 {% tab title="Berries" %}
 ## Berries
 
-| Name                                                                                       | Location / Requirement | Price |
-| ------------------------------------------------------------------------------------------ | ---------------------- | ----- |
-| <img src="../.gitbook/assets/Berry_Mauve_115.png" alt="" data-size="line">Mauve            | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Amber_270.png" alt="" data-size="line">Amber            | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Indigo_271.png" alt="" data-size="line">Indigo          | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Jade_272.png" alt="" data-size="line">Jade              | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Russet_273.png" alt="" data-size="line">Russet          | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Teal_274.png" alt="" data-size="line">Teal              | Berry Island           |       |
-| <img src="../.gitbook/assets/Berry_Vermillion_275.png" alt="" data-size="line">Vermillion  | Berry Island           |       |
-| <img src="../.gitbook/assets/Obsidian_10605.png" alt="" data-size="line">Obsidian          | Berry Island           |       |
-| <img src="../.gitbook/assets/Lime_10604 (1).png" alt="" data-size="line">Lime              | Berry Island           |       |
-| <img src="../.gitbook/assets/Crimson_10603.png" alt="" data-size="line">Crimson            | Berry Island           |       |
-| <img src="../.gitbook/assets/Citrine_10602.png" alt="" data-size="line">Citrine            | Berry Island           |       |
-| <img src="../.gitbook/assets/Blush_10601.png" alt="" data-size="line">Blush                | Berry Island           |       |
-| <img src="../.gitbook/assets/Azure_10600.png" alt="" data-size="line">Azure                | Berry Island           |       |
-| <img src="../.gitbook/assets/Ethereal_10611.png" alt="" data-size="line">Ethereal          | Berry Island           |       |
-| <img src="../.gitbook/assets/Solar_10613.png" alt="" data-size="line">Solar                | Berry Island           |       |
-| <img src="../.gitbook/assets/Nebula_10612.png" alt="" data-size="line">Nebula              | Berry Island           |       |
-| <img src="../.gitbook/assets/Aurora_10610.png" alt="" data-size="line">Aurora              | Berry Island           |       |
-| <img src="../.gitbook/assets/Inferno_10620.png" alt="" data-size="line">Inferno            | Berry Island           |       |
-| <img src="../.gitbook/assets/Nirvana_10621.png" alt="" data-size="line">Nirvana            | Berry Island           |       |
+| Name                                                                                               | Location / Requirement | Price |
+| -------------------------------------------------------------------------------------------------- | ---------------------- | ----- |
+| <img src="../.gitbook/assets/Berry_Mauve_115.png" alt="" data-size="line">Mauve                    | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Amber_270.png" alt="" data-size="line">Amber                    | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Indigo_271.png" alt="" data-size="line">Indigo                  | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Jade_272.png" alt="" data-size="line">Jade                      | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Russet_273.png" alt="" data-size="line">Russet                  | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Teal_274.png" alt="" data-size="line">Teal                      | Berry Island           |       |
+| <img src="../.gitbook/assets/Berry_Vermillion_275.png" alt="" data-size="line">Vermillion          | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Obsidian_10605.png" alt="" data-size="line">Obsidian <br>10605</p> | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Lime_10604 (1).png" alt="" data-size="line">Lime<br>10604</p>      | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Crimson_10603.png" alt="" data-size="line">Crimson<br>10603</p>    | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Citrine_10602.png" alt="" data-size="line">Citrine<br>10602</p>    | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Blush_10601.png" alt="" data-size="line">Blush<br>10601</p>        | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Azure_10600.png" alt="" data-size="line">Azure<br>10600</p>        | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Ethereal_10611.png" alt="" data-size="line">Ethereal <br>10611</p> | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Solar_10613.png" alt="" data-size="line">Solar <br>10613</p>       | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Nebula_10612.png" alt="" data-size="line">Nebula <br>10612</p>     | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Aurora_10610.png" alt="" data-size="line">Aurora <br>10610</p>     | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Inferno_10620.png" alt="" data-size="line">Inferno <br>10620</p>   | Berry Island           |       |
+| <p><img src="../.gitbook/assets/Nirvana_10621.png" alt="" data-size="line">Nirvana<br>10621</p>    | Berry Island           |       |
 
 #### Rare berries:
 
