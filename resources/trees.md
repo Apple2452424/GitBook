@@ -31,11 +31,11 @@ To acquire a T6 item, you must fulfill the following requirements: complete the 
 {% tab title="Trees" %}
 ## Trees
 
-| Name   | Location / Requirement                    | Price |
-| ------ | ----------------------------------------- | ----- |
-| Pine   | ![](<../.gitbook/assets/image (100).png>) |       |
-| Birch  | ![](<../.gitbook/assets/image (75).png>)  |       |
-| Maple  | ![](<../.gitbook/assets/image (59).png>)  |       |
+| Name   | Location / Requirement                    |
+| ------ | ----------------------------------------- |
+| Pine   | ![](<../.gitbook/assets/image (100).png>) |
+| Birch  | ![](<../.gitbook/assets/image (75).png>)  |
+| Maple  | ![](<../.gitbook/assets/image (59).png>)  |
 {% endtab %}
 
 {% tab title="Drops" %}

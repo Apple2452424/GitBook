@@ -1,8 +1,4 @@
-# ✍ Chat System
-
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
-{% endhint %}
+# ✍️ Chat System
 
 ## Chat System features :&#x20;
 

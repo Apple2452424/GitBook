@@ -1,9 +1,5 @@
 # Robbing System
 
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
-{% endhint %}
-
 Robbing System features :&#x20;
 
 * /rob command&#x20;

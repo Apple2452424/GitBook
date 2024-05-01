@@ -3,7 +3,7 @@
 
 
 {% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>\ <mark style="color:red;background-color:orange;">**All info shown here will be change when the new update comes.**</mark>
+<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
 {% endhint %}
 
 Coins: \

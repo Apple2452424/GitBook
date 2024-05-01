@@ -1,9 +1,5 @@
 # Dragging System
 
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
-{% endhint %}
-
 Dragging System features :&#x20;
 
 * Being able to drag players&#x20;

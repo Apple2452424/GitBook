@@ -1,4 +1,4 @@
-# ⛏ Mine
+# ⛏️ Mine
 
 To acquire a T6 item, you must fulfill the following requirements: complete the <mark style="color:red;">**main quest**</mark>, possess the corresponding blueprint, and be a donator to craft it.
 
@@ -67,11 +67,9 @@ Total Items: 10
 {% endtab %}
 
 {% tab title="Gems" %}
+The exquisite gems can only be acquired from an NPC located at the mine entrance. This NPC is also capable of refining the raw gems for you. <img src="../.gitbook/assets/RawGem_10169.png" alt="" data-size="line">Raw Gem 10169
 
-{% endtab %}
-
-{% tab title="Raw Gems" %}
-
+<table data-view="cards" data-full-width="true"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Almandine_10170 (1).png" alt="" data-size="original">Almandine<br>10170</td><td></td></tr><tr><td><img src="../.gitbook/assets/Amber_10171.png" alt="">Amber<br>10171</td><td></td></tr><tr><td><img src="../.gitbook/assets/Amethyst_10172.png" alt="">Amethyst<br>10172</td><td></td></tr><tr><td><img src="../.gitbook/assets/Ametrine_10173.png" alt="">Ametrine<br>10173</td><td></td></tr><tr><td><img src="../.gitbook/assets/Andradite_10174.png" alt="">Andradite<br>10174</td><td></td></tr><tr><td><img src="../.gitbook/assets/Aquamarine_10175.png" alt="">Aquamarine<br>10175</td><td></td></tr><tr><td><img src="../.gitbook/assets/Black_Diamond_10176.png" alt="">Black Diamond<br>10176</td><td></td></tr><tr><td><img src="../.gitbook/assets/Citrine_10177.png" alt="">Citrine<br>10177</td><td></td></tr><tr><td><img src="../.gitbook/assets/Demantoid_10178.png" alt="">Demantoid<br>10178</td><td></td></tr><tr><td><img src="../.gitbook/assets/Emerald_10179 (2).png" alt="">Emerald<br>10179</td><td></td></tr><tr><td><img src="../.gitbook/assets/Jade_10180.png" alt="">Jade<br>10180</td><td></td></tr><tr><td><img src="../.gitbook/assets/Morganite_10181.png" alt="">Morganite<br>10181</td><td></td></tr><tr><td><img src="../.gitbook/assets/Padparadsch_10182.png" alt="">Padparadsch<br>10182</td><td></td></tr><tr><td><img src="../.gitbook/assets/Paraiba_Tourmaline_10183.png" alt="">Paraiba Tourmaline<br>10183</td><td></td></tr><tr><td><img src="../.gitbook/assets/Peridot_10184.png" alt="">Peridot<br>10184</td><td></td></tr><tr><td><img src="../.gitbook/assets/Red_Beryl_10185.png" alt="">Red Beryl<br>10185</td><td></td></tr><tr><td><img src="../.gitbook/assets/Ruby_10186.png" alt="">Ruby<br>10186</td><td></td></tr><tr><td><img src="../.gitbook/assets/Spinel_10187.png" alt="">Spinel<br>10187</td><td></td></tr><tr><td><img src="../.gitbook/assets/Tanzanite_10188.png" alt="">Tanzanite<br>10188</td><td></td></tr><tr><td><img src="../.gitbook/assets/Topaz_10189 (1).png" alt="">Topaz<br>10189</td><td></td></tr><tr><td><img src="../.gitbook/assets/Tsavorite_10190.png" alt="">Tsavorite<br>10190</td><td></td></tr><tr><td><img src="../.gitbook/assets/Zircon_10191.png" alt="">Zircon<br>10191</td><td></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 

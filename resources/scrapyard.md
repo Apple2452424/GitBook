@@ -16,7 +16,7 @@ The Hammers
 
 {% tab title="Drops" %}
 Scrapyard's drop\
-Screenshot couldn't provide. Either Item image isn't full-scale or available.
+Screenshot couldn't provide. Either Item image isn't full-scale or available. \[Slightly outdated]
 
 | Object     | Info                                                             | Image |
 | ---------- | ---------------------------------------------------------------- | ----- |
@@ -38,7 +38,7 @@ Screenshot couldn't provide. Either Item image isn't full-scale or available.
 
 {% tab title="Cars" %}
 Scrapyard's drop \[ Cars ]\
-Screenshot couldn't provide. Either Item image isn't full-scale or available.
+Screenshot couldn't provide. Either Item image isn't full-scale or available. \[Slightly outdated]
 
 | Cars                                                                                                                                                                                                                                                                                      | Info                                                                | Image |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- |

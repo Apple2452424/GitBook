@@ -1,9 +1,5 @@
 # 👤 Jobs
 
-{% hint style="danger" %}
-<mark style="color:red;background-color:orange;">**WORKING IN PROGRESS**</mark>
-{% endhint %}
-
 Lumberjack
 
 * Unlock axes

@@ -1,6 +1,8 @@
-# 🏠 Deed
+---
+description: This item is no longer in use on the server.
+---
 
-This item will only last until Stilau is done working with the house plugin.
+# 🏠 Deed
 
 ### Inside Northwich
 
